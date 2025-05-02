@@ -1,0 +1,48 @@
+
+body{
+   background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.center{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+    flex-direction: column;
+
+}
+#clock{
+    font-size: 40px;
+        background-color: orange;
+        padding: 20px 60px;
+        border-radius: 10px;
+        margin-top: 20px;
+
+
+}
+.name{
+    font-size: 10px;
+    color: white;
+    background-color: orange;
+  
+    margin-top: 0;
+    padding: 0;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.foter-content{
+    font-size: 20px;
+    color: white;
+    background-color: orange;
+    margin-top: 0;
+    padding:0;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
